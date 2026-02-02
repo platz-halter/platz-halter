@@ -23,7 +23,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
+
 ![Static Badge](https://img.shields.io/badge/Nmap%20-%20grey?style=for-the-badge)
+
 
 
 ### SIEM
